@@ -1,5 +1,5 @@
 {
-  "name": "marko298/ecs-service-image-updater",
+  "name": "@marko298/ecs-service-image-updater",
   "version": "0.1.10",
   "description": "Update an ECS service with a new Docker image",
   "main": "index.js",
