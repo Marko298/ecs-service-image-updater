@@ -24,6 +24,8 @@ Options:
   --cluster-arn             Arn of the ECS Cluster for which the Service exists
                             on. Used in conjunction with service-name
   --output-arn-only         Output the new Task Definition Arn only
+  --wait                    Wait for the Service to be stable after updating 
+                            the Task Definition
 ```
 
 ### Examples
